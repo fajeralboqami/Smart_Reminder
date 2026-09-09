@@ -1,6 +1,6 @@
 # Smart_Reminder
 # Capstone: Smart Reminder A/B Experiment — Injaz
-
+Name : Fajer alboqami 
 **Experimentation & Causal Inference — [SDAIA Academy](https://github.com/SDAIAAcademy)**
 
 ## Overview
